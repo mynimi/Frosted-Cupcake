@@ -1,3 +1,5 @@
+_Demopage coming soon!_
+
 # Frosted Cupcake - the asymmetric one
 ## responsive Blogger Template
 
