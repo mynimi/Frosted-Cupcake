@@ -40,6 +40,11 @@ body{
 	font-family: Playfair Display, Lobster Two, Times New Roman, Serif;
 	font-size: 16px;
 	color: #4d4954;
+    line-height: 1.5em;
+}
+
+.jump-link{
+	margin: 25px 0;
 }
 
  #maincontainer{
@@ -273,8 +278,8 @@ border-bottom: 5px solid #6b94b8;
 -------------------*/
 span.date-header{
     position: absolute;
-    right: 98.5%; 
-	padding:15px; 
+    right: 100%;
+    padding: 15px 5px;
 	float:left; 
 	font-family: &#39;Lobster Two&#39;; 
 	text-align: center; 
@@ -336,7 +341,9 @@ span.date-header{
 	padding-top: 3px;
     margin-left: -1%; 
     margin-top: -5px; 
+	margin-bottom: 13px;
 }
+
 .comment-link{
 	display: none;
 }
